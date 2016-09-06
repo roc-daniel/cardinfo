@@ -1,3 +1,11 @@
+# phpstorm project files
 .idea
-.idea/*
-vendor
+
+# composer vendor dir
+/vendor
+
+# Mac DS_Store Files
+.DS_Store
+
+#composer.lock
+composer.lock
