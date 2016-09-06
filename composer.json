@@ -1,0 +1,21 @@
+{
+    "name": "daniel/cardinfo",
+    "description": "To find ID information by searching ID number",
+    "type": "library",
+    "require": {
+        "catfan/medoo": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dongpeng",
+            "email": "dongpeng@qianshengqian.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "cardinfo\\": "src/"
+      }
+    },
+    "minimum-stability": "dev"
+}
